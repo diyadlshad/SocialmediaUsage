@@ -3,7 +3,7 @@
 import numpy as np
 import pandas as pd
 
-# Load the Cardio Dataset
+# Load the  Dataset
 
 mydata = pd.read_csv('socialmediausage.csv')
 
