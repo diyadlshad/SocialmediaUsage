@@ -3,7 +3,7 @@
 #
 # this group project have been participated by following students
  #
- 1- Diya Dlishad Ezzat
+ 1- Diya Dilshad Ezzat
  #
  2- Ballen Jaza Ahmed
  #
